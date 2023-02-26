@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.68e9c792.css","mappings":"AAAA,KACE,qBAAuB,CACvB,UACF,CAEA,MAGE,UAAY,CAFZ,cAAe,CACf,eAEF,CAEA,KACE,eACF","sources":["index.css"],"sourcesContent":["body {\n  background-color: black;\n  color: white;\n}\n\n.user {\n  font-size: 20px;\n  margin-left: 30%;\n  color: black;\n}\n\n.App {\n  margin-left: 40%;\n}"],"names":[],"sourceRoot":""}
