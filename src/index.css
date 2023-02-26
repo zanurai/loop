@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.user {
+  font-size: 20px;
+  margin-left: 30%;
+  color: black;
+}
+
+.App {
+  margin-left: 40%;
+}
