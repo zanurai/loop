@@ -18,7 +18,7 @@ const App = () => {
 
         {users.map((user, index) => {
           return (
-            <div key={index} style={{ backgroundColor: user, borderRadius: "10px", width: "500px" }}>
+            <div key={index} style={{ backgroundColor: "skyblue", borderRadius: "10px", width: "500px" }}>
               {index}
               <p>{user.name}</p>
               <p>{user.location}</p>
